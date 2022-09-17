@@ -5,5 +5,5 @@
 // The function doesn't take in any parameters.
 
 function printName() {
-  console.log("Aiman");
+  console.log("the name");
 }
